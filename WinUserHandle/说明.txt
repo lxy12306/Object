@@ -1,0 +1,2 @@
+MyWindows Win32程序窗口程序使用的头文件
+MyWindowshWnd 自定义窗口类m_Window  以及窗口查找类m_WindowshWnd
